@@ -1,0 +1,527 @@
+{
+  "extensionName": {
+    "message": "Which Cloudflare® datacenter am I visiting?",
+    "description": "Name of the extension."
+  },
+  
+  "extensionDescription": {
+    "message": "Show the name of Cloudflare® datacenter you're currently visiting\n\nMain icon made by Freepik from www.flaticon.com is licensed by CC 3.0 BY",
+    "description": "Description of the add-on."
+  },
+  
+  "unknown": {
+    "message": "Cloudflare not detected",
+    "description": "used when unknown / no data"
+  },
+  
+  "title": {
+    "message": "Visiting the $POP$ datacenter",
+    "description": "Tooltip of the pageAction icon when Cloudflare is detected",
+    "placeholders": {
+      "pop": {
+        "content": "$1",
+        "example": "Amsterdam, Netherlands"
+      }
+    }
+  },
+
+  "AMS": {
+    "message": "Amsterdam, Netherlands"
+  },
+  "ATH": {
+    "message": "Athens, Greece"
+  },
+  "BCN": {
+    "message": "Barcelona, Spain"
+  },
+  "BEG": {
+    "message": "Belgrade, Serbia"
+  },
+  "TXL": {
+    "message": "Berlin, Germany"
+  },
+  "BRU": {
+    "message": "Brussels, Belgium"
+  },
+  "OTP": {
+    "message": "Bucharest, Romania"
+  },
+  "BUD": {
+    "message": "Budapest, Hungary"
+  },
+  "KIV": {
+    "message": "Chișinău, Moldova"
+  },
+  "CPH": {
+    "message": "Copenhagen, Denmark"
+  },
+  "DUB": {
+    "message": "Dublin, Ireland"
+  },
+  "DUS": {
+    "message": "Düsseldorf, Germany"
+  },
+  "EDI": {
+    "message": "Edinburgh, United Kingdom"
+  },
+  "FRA": {
+    "message": "Frankfurt, Germany"
+  },
+  "HAM": {
+    "message": "Hamburg, Germany"
+  },
+  "HEL": {
+    "message": "Helsinki, Finland"
+  },
+  "IST": {
+    "message": "Istanbul, Turkey"
+  },
+  "KBP": {
+    "message": "Kiev, Ukraine"
+  },
+  "LIS": {
+    "message": "Lisbon, Portugal"
+  },
+  "LHR": {
+    "message": "London, United Kingdom"
+  },
+  "LUX": {
+    "message": "Luxembourg City, Luxembourg"
+  },
+  "MAD": {
+    "message": "Madrid, Spain"
+  },
+  "MAN": {
+    "message": "Manchester, United Kingdom"
+  },
+  "MRS": {
+    "message": "Marseille, France"
+  },
+  "MXP": {
+    "message": "Milan, Italy"
+  },
+  "DME": {
+    "message": "Moscow, Russia"
+  },
+  "MUC": {
+    "message": "Munich, Germany"
+  },
+  "OSL": {
+    "message": "Oslo, Norway"
+  },
+  "CDG": {
+    "message": "Paris, France"
+  },
+  "PRG": {
+    "message": "Prague, Czech Republic"
+  },
+  "KEF": {
+    "message": "Reykjavík, Iceland"
+  },
+  "RIX": {
+    "message": "Riga, Latvia"
+  },
+  "FCO": {
+    "message": "Rome, Italy"
+  },
+  "LED": {
+    "message": "Saint Petersburg, Russia"
+  },
+  "SOF": {
+    "message": "Sofia, Bulgaria"
+  },
+  "ARN": {
+    "message": "Stockholm, Sweden"
+  },
+  "TLL": {
+    "message": "Tallinn, Estonia"
+  },
+  "VIE": {
+    "message": "Vienna, Austria"
+  },
+  "VNO": {
+    "message": "Vilnius, Lithuania"
+  },
+  "WAW": {
+    "message": "Warsaw, Poland"
+  },
+  "ZAG": {
+    "message": "Zagreb, Croatia"
+  },
+  "ZRH": {
+    "message": "Zürich, Switzerland"
+  },
+  "CAI": {
+    "message": "Cairo, Egypt"
+  },
+  "CMN": {
+    "message": "Casablanca, Morocco"
+  },
+  "CPT": {
+    "message": "Cape Town, South Africa"
+  },
+  "JIB": {
+    "message": "Djibouti City, Djibouti"
+  },
+  "DUR": {
+    "message": "Durban, South Africa"
+  },
+  "JNB": {
+    "message": "Johannesburg, South Africa"
+  },
+  "LOS": {
+    "message": "Lagos, Nigeria"
+  },
+  "LAD": {
+    "message": "Luanda, Angola"
+  },
+  "MBA": {
+    "message": "Mombasa, Kenya"
+  },
+  "MRU": {
+    "message": "Port Louis, Mauritius"
+  },
+  "RUN": {
+    "message": "Réunion, France"
+  },
+  "BKK": {
+    "message": "Bangkok, Thailand"
+  },
+  "CEB": {
+    "message": "Cebu, Philippines"
+  },
+  "CTU": {
+    "message": "Chengdu, China"
+  },
+  "MAA": {
+    "message": "Chennai, India"
+  },
+  "CMB": {
+    "message": "Colombo, Sri Lanka"
+  },
+  "SZX": {
+    "message": "Dongguan, China"
+  },
+  "FUO": {
+    "message": "Foshan, China"
+  },
+  "FOC": {
+    "message": "Fuzhou, China"
+  },
+  "CAN": {
+    "message": "Guangzhou, China"
+  },
+  "HGH": {
+    "message": "Hangzhou, China"
+  },
+  "HAN": {
+    "message": "Hanoi, Vietnam"
+  },
+  "HNY": {
+    "message": "Hengyang, China"
+  },
+  "SGN": {
+    "message": "Ho Chi Minh City, Vietnam"
+  },
+  "HKG": {
+    "message": "Hong Kong, Hong Kong"
+  },
+  "HYD": {
+    "message": "Hyderabad, India"
+  },
+  "ISB": {
+    "message": "Islamabad, Pakistan"
+  },
+  "TNA": {
+    "message": "Jinan, China"
+  },
+  "KHI": {
+    "message": "Karachi, Pakistan"
+  },
+  "KTM": {
+    "message": "Kathmandu, Nepal"
+  },
+  "KUL": {
+    "message": "Kuala Lumpur, Malaysia"
+  },
+  "NAY": {
+    "message": "Langfang, China"
+  },
+  "LYA": {
+    "message": "Luoyang, China"
+  },
+  "MFM": {
+    "message": "Macau, Macau"
+  },
+  "MNL": {
+    "message": "Manila, Philippines"
+  },
+  "BOM": {
+    "message": "Mumbai, India"
+  },
+  "NNG": {
+    "message": "Nanning, China"
+  },
+  "DEL": {
+    "message": "New Delhi, India"
+  },
+  "KIX": {
+    "message": "Osaka, Japan"
+  },
+  "PNH": {
+    "message": "Phnom Penh, Cambodia"
+  },
+  "TAO": {
+    "message": "Qingdao, China"
+  },
+  "ICN": {
+    "message": "Seoul, South Korea"
+  },
+  "SHA": {
+    "message": "Shanghai, China"
+  },
+  "SHE": {
+    "message": "Shenyang, China"
+  },
+  "SJW": {
+    "message": "Shijiazhuang, China"
+  },
+  "SIN": {
+    "message": "Singapore, Singapore"
+  },
+  "SZV": {
+    "message": "Suzhou, China"
+  },
+  "TPE": {
+    "message": "Taipei, Taiwan"
+  },
+  "TSN": {
+    "message": "Tianjin, China"
+  },
+  "NRT": {
+    "message": "Tokyo, Japan"
+  },
+  "ULN": {
+    "message": "Ulaanbaatar, Mongolia"
+  },
+  "WUH": {
+    "message": "Wuhan, China"
+  },
+  "WUX": {
+    "message": "Wuxi, China"
+  },
+  "XIY": {
+    "message": "Xi'an, China"
+  },
+  "EVN": {
+    "message": "Yerevan, Armenia"
+  },
+  "CGO": {
+    "message": "Zhengzhou, China"
+  },
+  "CSX": {
+    "message": "Zuzhou, China"
+  },
+  "BGW": {
+    "message": "Baghdad, Iraq"
+  },
+  "BEY": {
+    "message": "Beirut, Lebanon"
+  },
+  "DOH": {
+    "message": "Doha, Qatar"
+  },
+  "DXB": {
+    "message": "Dubai, United Arab Emirates"
+  },
+  "KWI": {
+    "message": "Kuwait City, Kuwait"
+  },
+  "BAH": {
+    "message": "Manama, Bahrain"
+  },
+  "MCT": {
+    "message": "Muscat, Oman"
+  },
+  "RUH": {
+    "message": "Riyadh, Saudi Arabia"
+  },
+  "TLV": {
+    "message": "Tel Aviv, Israel"
+  },
+  "BOG": {
+    "message": "Bogotá, Colombia"
+  },
+  "EZE": {
+    "message": "Buenos Aires, Argentina"
+  },
+  "LIM": {
+    "message": "Lima, Peru"
+  },
+  "MDE": {
+    "message": "Medellín, Colombia"
+  },
+  "MEX": {
+    "message": "Mexico City, Mexico"
+  },
+  "PTY": {
+    "message": "Panama City, Panama"
+  },
+  "UIO": {
+    "message": "Quito, Ecuador"
+  },
+  "GIG": {
+    "message": "Rio de Janeiro, Brazil"
+  },
+  "GRU": {
+    "message": "São Paulo, Brazil"
+  },
+  "SCL": {
+    "message": "Valparaíso, Chile"
+  },
+  "CUR": {
+    "message": "Willemstad, Curaçao"
+  },
+  "IAD": {
+    "message": "Ashburn, United States"
+  },
+  "ATL": {
+    "message": "Atlanta, United States"
+  },
+  "BOS": {
+    "message": "Boston, United States"
+  },
+  "YYC": {
+    "message": "Calgary, Canada"
+  },
+  "CLT": {
+    "message": "Charlotte, United States"
+  },
+  "ORD": {
+    "message": "Chicago, United States"
+  },
+  "CMH": {
+    "message": "Columbus, United States"
+  },
+  "DFW": {
+    "message": "Dallas, United States"
+  },
+  "DEN": {
+    "message": "Denver, United States"
+  },
+  "DTW": {
+    "message": "Detroit, United States"
+  },
+  "IAH": {
+    "message": "Houston, United States"
+  },
+  "IND": {
+    "message": "Indianapolis, United States"
+  },
+  "JAX": {
+    "message": "Jacksonville, United States"
+  },
+  "MCI": {
+    "message": "Kansas City, United States"
+  },
+  "LAS": {
+    "message": "Las Vegas, United States"
+  },
+  "LAX": {
+    "message": "Los Angeles, United States"
+  },
+  "MFE": {
+    "message": "McAllen, United States"
+  },
+  "MEM": {
+    "message": "Memphis, United States"
+  },
+  "MIA": {
+    "message": "Miami, United States"
+  },
+  "MSP": {
+    "message": "Minneapolis, United States"
+  },
+  "MGM": {
+    "message": "Montgomery, United States"
+  },
+  "YUL": {
+    "message": "Montréal, Canada"
+  },
+  "BNA": {
+    "message": "Nashville, United States"
+  },
+  "EWR": {
+    "message": "Newark, United States"
+  },
+  "ORF": {
+    "message": "Norfolk, United States"
+  },
+  "OMA": {
+    "message": "Omaha, United States"
+  },
+  "PHX": {
+    "message": "Phoenix, United States"
+  },
+  "PIT": {
+    "message": "Pittsburgh, United States"
+  },
+  "PDX": {
+    "message": "Portland, United States"
+  },
+  "RIC": {
+    "message": "Richmond, Virginia"
+  },
+  "SMF": {
+    "message": "Sacramento, United States"
+  },
+  "SLC": {
+    "message": "Salt Lake City, United States"
+  },
+  "SAN": {
+    "message": "San Diego, United States"
+  },
+  "SJC": {
+    "message": "San Jose, United States"
+  },
+  "YXE": {
+    "message": "Saskatoon, Canada"
+  },
+  "SEA": {
+    "message": "Seattle, United States"
+  },
+  "STL": {
+    "message": "St. Louis, United States"
+  },
+  "TPA": {
+    "message": "Tampa, United States"
+  },
+  "YYZ": {
+    "message": "Toronto, Canada"
+  },
+  "YVR": {
+    "message": "Vancouver, Canada"
+  },
+  "TLH": {
+    "message": "Tallahassee, United States"
+  },
+  "YWG": {
+    "message": "Winnipeg, Canada"
+  },
+  "AKL": {
+    "message": "Auckland, New Zealand"
+  },
+  "BNE": {
+    "message": "Brisbane, Australia"
+  },
+  "MEL": {
+    "message": "Melbourne, Australia"
+  },
+  "PER": {
+    "message": "Perth, Australia"
+  },
+  "SYD": {
+    "message": "Sydney, Australia"
+  }
+
+}

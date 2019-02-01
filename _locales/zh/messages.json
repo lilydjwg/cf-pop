@@ -1,0 +1,527 @@
+{
+  "extensionName": {
+    "message": "我在访问哪个 Cloudflare® 数据中心？",
+    "description": "Name of the extension."
+  },
+  
+  "extensionDescription": {
+    "message": "显示正在访问的 Cloudflare® 名称信息\n\nMain icon made by Freepik from www.flaticon.com is licensed by CC 3.0 BY",
+    "description": "Description of the add-on."
+  },
+  
+  "unknown": {
+    "message": "未检测到 Cloudflare",
+    "description": "used when unknown / no data"
+  },
+  
+  "title": {
+    "message": "正在访问 $POP$ 数据中心",
+    "description": "Tooltip of the pageAction icon when Cloudflare is detected",
+    "placeholders": {
+      "pop": {
+        "content": "$1",
+        "example": "荷兰阿姆斯特丹"
+      }
+    }
+  },
+
+  "AMS": {
+    "message": "荷兰阿姆斯特丹"
+  },
+  "ATH": {
+    "message": "希腊雅典"
+  },
+  "BCN": {
+    "message": "西班牙巴塞罗纳"
+  },
+  "BEG": {
+    "message": "塞尔维亚贝尔格莱德"
+  },
+  "TXL": {
+    "message": "德国柏林"
+  },
+  "BRU": {
+    "message": "比利时布鲁塞尔"
+  },
+  "OTP": {
+    "message": "罗马尼亚布加勒斯特"
+  },
+  "BUD": {
+    "message": "匈牙利布达佩斯"
+  },
+  "KIV": {
+    "message": "摩尔多瓦基希讷乌"
+  },
+  "CPH": {
+    "message": "丹麦哥本哈根"
+  },
+  "DUB": {
+    "message": "爱尔兰都柏林"
+  },
+  "DUS": {
+    "message": "德国杜塞尔多夫"
+  },
+  "EDI": {
+    "message": "英国爱丁堡"
+  },
+  "FRA": {
+    "message": "德国法兰克福"
+  },
+  "HAM": {
+    "message": "德国汉堡"
+  },
+  "HEL": {
+    "message": "芬兰赫尔辛基"
+  },
+  "IST": {
+    "message": "土耳其伊斯坦布尔"
+  },
+  "KBP": {
+    "message": "乌克兰基辅"
+  },
+  "LIS": {
+    "message": "葡萄牙里斯本"
+  },
+  "LHR": {
+    "message": "英国伦敦"
+  },
+  "LUX": {
+    "message": "卢森堡"
+  },
+  "MAD": {
+    "message": "西班牙马德里"
+  },
+  "MAN": {
+    "message": "英国曼彻斯特"
+  },
+  "MRS": {
+    "message": "法国马赛"
+  },
+  "MXP": {
+    "message": "意大利米兰"
+  },
+  "DME": {
+    "message": "俄罗斯莫斯科"
+  },
+  "MUC": {
+    "message": "德国慕尼黑"
+  },
+  "OSL": {
+    "message": "挪威奥斯陆"
+  },
+  "CDG": {
+    "message": "法国巴黎"
+  },
+  "PRG": {
+    "message": "捷克布拉格"
+  },
+  "KEF": {
+    "message": "冰岛雷克雅维克"
+  },
+  "RIX": {
+    "message": "拉脱维亚里加"
+  },
+  "FCO": {
+    "message": "意大利罗马"
+  },
+  "LED": {
+    "message": "俄罗斯圣彼德堡"
+  },
+  "SOF": {
+    "message": "保加利亚索非亚"
+  },
+  "ARN": {
+    "message": "瑞典斯德哥尔摩"
+  },
+  "TLL": {
+    "message": "爱沙尼亚塔林"
+  },
+  "VIE": {
+    "message": "奥地利维也纳"
+  },
+  "VNO": {
+    "message": "立陶宛维尔纽斯"
+  },
+  "WAW": {
+    "message": "波兰华沙"
+  },
+  "ZAG": {
+    "message": "克罗地亚萨格勒布"
+  },
+  "ZRH": {
+    "message": "瑞士苏黎世"
+  },
+  "CAI": {
+    "message": "埃及开罗"
+  },
+  "CMN": {
+    "message": "摩洛哥卡萨布兰卡"
+  },
+  "CPT": {
+    "message": "南非开普敦"
+  },
+  "JIB": {
+    "message": "吉布提吉布提市"
+  },
+  "DUR": {
+    "message": "南非德班"
+  },
+  "JNB": {
+    "message": "南非约翰尼斯堡"
+  },
+  "LOS": {
+    "message": "尼日利亚拉各斯"
+  },
+  "LAD": {
+    "message": "安哥拉罗安达"
+  },
+  "MBA": {
+    "message": "肯尼亚蒙巴萨"
+  },
+  "MRU": {
+    "message": "毛里求斯路易港"
+  },
+  "RUN": {
+    "message": "法国留尼旺"
+  },
+  "BKK": {
+    "message": "泰国曼谷"
+  },
+  "CEB": {
+    "message": "菲律宾宿务"
+  },
+  "CTU": {
+    "message": "中国成都"
+  },
+  "MAA": {
+    "message": "印度金奈"
+  },
+  "CMB": {
+    "message": "斯里兰卡科伦坡"
+  },
+  "SZX": {
+    "message": "中国东莞"
+  },
+  "FUO": {
+    "message": "中国佛山"
+  },
+  "FOC": {
+    "message": "中国福州"
+  },
+  "CAN": {
+    "message": "中国广州"
+  },
+  "HGH": {
+    "message": "中国杭州"
+  },
+  "HAN": {
+    "message": "越南河内"
+  },
+  "HNY": {
+    "message": "中国衡阳"
+  },
+  "SGN": {
+    "message": "越南胡志明市"
+  },
+  "HKG": {
+    "message": "香港"
+  },
+  "HYD": {
+    "message": "印度海得拉巴"
+  },
+  "ISB": {
+    "message": "巴基斯坦伊斯兰堡"
+  },
+  "TNA": {
+    "message": "中国济南"
+  },
+  "KHI": {
+    "message": "巴基斯坦卡拉奇"
+  },
+  "KTM": {
+    "message": "尼泊尔加德满都"
+  },
+  "KUL": {
+    "message": "马来西亚吉隆坡"
+  },
+  "NAY": {
+    "message": "中国廊坊"
+  },
+  "LYA": {
+    "message": "中国沈阳"
+  },
+  "MFM": {
+    "message": "澳门"
+  },
+  "MNL": {
+    "message": "菲律宾马尼拉"
+  },
+  "BOM": {
+    "message": "印度孟买"
+  },
+  "NNG": {
+    "message": "中国南宁"
+  },
+  "DEL": {
+    "message": "印度新德里"
+  },
+  "KIX": {
+    "message": "日本大阪"
+  },
+  "PNH": {
+    "message": "柬埔寨金边"
+  },
+  "TAO": {
+    "message": "中国青鸟"
+  },
+  "ICN": {
+    "message": "韩国首尔"
+  },
+  "SHA": {
+    "message": "中国上海"
+  },
+  "SHE": {
+    "message": "中国沈阳"
+  },
+  "SJW": {
+    "message": "中国石家庄"
+  },
+  "SIN": {
+    "message": "新加坡"
+  },
+  "SZV": {
+    "message": "中国苏州"
+  },
+  "TPE": {
+    "message": "台湾台北"
+  },
+  "TSN": {
+    "message": "中国天津"
+  },
+  "NRT": {
+    "message": "日本东京"
+  },
+  "ULN": {
+    "message": "蒙古乌兰巴托"
+  },
+  "WUH": {
+    "message": "中国武汉"
+  },
+  "WUX": {
+    "message": "中国无锡"
+  },
+  "XIY": {
+    "message": "中国西安"
+  },
+  "EVN": {
+    "message": "亚美尼亚耶烈万"
+  },
+  "CGO": {
+    "message": "中国郑州"
+  },
+  "CSX": {
+    "message": "中国株洲"
+  },
+  "BGW": {
+    "message": "伊拉克巴格达"
+  },
+  "BEY": {
+    "message": "黎巴嫩贝鲁特"
+  },
+  "DOH": {
+    "message": "卡塔尔多哈"
+  },
+  "DXB": {
+    "message": "阿拉伯联合酋长国迪拜"
+  },
+  "KWI": {
+    "message": "科威特"
+  },
+  "BAH": {
+    "message": "巴林麦纳麦"
+  },
+  "MCT": {
+    "message": "阿曼马斯喀特"
+  },
+  "RUH": {
+    "message": "沙特阿拉伯利雅得"
+  },
+  "TLV": {
+    "message": "以色列特拉维夫"
+  },
+  "BOG": {
+    "message": "哥伦比亚波哥大"
+  },
+  "EZE": {
+    "message": "阿根廷布宜诺斯艾利斯"
+  },
+  "LIM": {
+    "message": "秘鲁利马"
+  },
+  "MDE": {
+    "message": "哥伦比亚麦德林"
+  },
+  "MEX": {
+    "message": "墨西哥墨西哥城"
+  },
+  "PTY": {
+    "message": "巴拿马巴拿马城"
+  },
+  "UIO": {
+    "message": "厄瓜多尔基多"
+  },
+  "GIG": {
+    "message": "巴西里约热内卢"
+  },
+  "GRU": {
+    "message": "巴西圣保罗"
+  },
+  "SCL": {
+    "message": "智利瓦尔帕莱索"
+  },
+  "CUR": {
+    "message": "库拉索岛威廉斯塔德"
+  },
+  "IAD": {
+    "message": "美国阿什本"
+  },
+  "ATL": {
+    "message": "美国亚特兰大"
+  },
+  "BOS": {
+    "message": "美国波士顿"
+  },
+  "YYC": {
+    "message": "加拿大卡尔加里"
+  },
+  "CLT": {
+    "message": "美国夏洛特"
+  },
+  "ORD": {
+    "message": "美国 Chicago"
+  },
+  "CMH": {
+    "message": "美国 Columbus"
+  },
+  "DFW": {
+    "message": "美国达拉斯"
+  },
+  "DEN": {
+    "message": "美国丹佛"
+  },
+  "DTW": {
+    "message": "美国底特律"
+  },
+  "IAH": {
+    "message": "美国休斯顿"
+  },
+  "IND": {
+    "message": "美国印第安纳波利斯"
+  },
+  "JAX": {
+    "message": "美国杰克逊维尔"
+  },
+  "MCI": {
+    "message": "美国堪萨斯城"
+  },
+  "LAS": {
+    "message": "美国拉斯维加斯"
+  },
+  "LAX": {
+    "message": "美国洛杉矶"
+  },
+  "MFE": {
+    "message": "美国麦卡伦"
+  },
+  "MEM": {
+    "message": "美国孟菲斯"
+  },
+  "MIA": {
+    "message": "美国迈阿密"
+  },
+  "MSP": {
+    "message": "美国明尼阿波里斯"
+  },
+  "MGM": {
+    "message": "美国蒙哥马利"
+  },
+  "YUL": {
+    "message": "加拿大蒙特利尔"
+  },
+  "BNA": {
+    "message": "美国那什维尔"
+  },
+  "EWR": {
+    "message": "美国纽瓦克"
+  },
+  "ORF": {
+    "message": "美国诺福克"
+  },
+  "OMA": {
+    "message": "美国奥马哈"
+  },
+  "PHX": {
+    "message": "美国凤凰城"
+  },
+  "PIT": {
+    "message": "美国匹兹堡"
+  },
+  "PDX": {
+    "message": "美国波特兰"
+  },
+  "RIC": {
+    "message": "弗吉尼亚里士满"
+  },
+  "SMF": {
+    "message": "美国萨克拉门托"
+  },
+  "SLC": {
+    "message": "美国盐湖城"
+  },
+  "SAN": {
+    "message": "美国圣地亚哥"
+  },
+  "SJC": {
+    "message": "美国圣何塞"
+  },
+  "YXE": {
+    "message": "加拿大萨斯卡通"
+  },
+  "SEA": {
+    "message": "美国西雅图"
+  },
+  "STL": {
+    "message": "美国圣路易斯"
+  },
+  "TPA": {
+    "message": "美国坦帕"
+  },
+  "YYZ": {
+    "message": "加拿大铝合金"
+  },
+  "YVR": {
+    "message": "加拿大温哥华"
+  },
+  "TLH": {
+    "message": "美国塔拉哈西"
+  },
+  "YWG": {
+    "message": "加拿大温尼伯"
+  },
+  "AKL": {
+    "message": "新西兰奥克兰"
+  },
+  "BNE": {
+    "message": "澳大利亚布里斯班"
+  },
+  "MEL": {
+    "message": "澳大利亚墨尔本"
+  },
+  "PER": {
+    "message": "澳大利亚珀斯"
+  },
+  "SYD": {
+    "message": "澳大利亚悉尼"
+  }
+
+}
