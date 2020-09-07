@@ -55,6 +55,9 @@
   "CPH": {
     "message": "Copenhagen, Denmark"
   },
+  "ORK": {
+    "message": "Cork, Ireland"
+  },
   "DUB": {
     "message": "Dublin, Ireland"
   },
@@ -66,6 +69,12 @@
   },
   "FRA": {
     "message": "Frankfurt, Germany"
+  },
+  "GVA": {
+    "message": "Geneva, Switzerland"
+  },
+  "GOT": {
+    "message": "Gothenburg, Sweden"
   },
   "HAM": {
     "message": "Hamburg, Germany"
@@ -106,6 +115,9 @@
   "MUC": {
     "message": "Munich, Germany"
   },
+  "LCA": {
+    "message": "Nicosia, Cyprus"
+  },
   "OSL": {
     "message": "Oslo, Norway"
   },
@@ -136,6 +148,9 @@
   "TLL": {
     "message": "Tallinn, Estonia"
   },
+  "SKG": {
+    "message": "Thessaloniki, Greece"
+  },
   "VIE": {
     "message": "Vienna, Austria"
   },
@@ -151,14 +166,20 @@
   "ZRH": {
     "message": "Zürich, Switzerland"
   },
-  "CAI": {
-    "message": "Cairo, Egypt"
+  "TNR": {
+    "message": "Antananarivo, Madagascar"
   },
   "CMN": {
     "message": "Casablanca, Morocco"
   },
   "CPT": {
     "message": "Cape Town, South Africa"
+  },
+  "DKR": {
+    "message": "Dakar, Senegal"
+  },
+  "DAR": {
+    "message": "Dar Es Salaam, Tanzania"
   },
   "JIB": {
     "message": "Djibouti City, Djibouti"
@@ -175,8 +196,14 @@
   "LAD": {
     "message": "Luanda, Angola"
   },
+  "MPM": {
+    "message": "Maputo, MZ"
+  },
   "MBA": {
     "message": "Mombasa, Kenya"
+  },
+  "ROB": {
+    "message": "Monrovia, Liberia"
   },
   "MRU": {
     "message": "Port Louis, Mauritius"
@@ -184,8 +211,17 @@
   "RUN": {
     "message": "Réunion, France"
   },
+  "BLR": {
+    "message": "Bangalore, India"
+  },
+  "KGL": {
+    "message": "Kigali, Rwanda"
+  },
   "BKK": {
     "message": "Bangkok, Thailand"
+  },
+  "BWN": {
+    "message": "Bandar Seri Begawan, Brunei"
   },
   "CEB": {
     "message": "Cebu, Philippines"
@@ -196,8 +232,17 @@
   "MAA": {
     "message": "Chennai, India"
   },
+  "CGP": {
+    "message": "Chittagong, Bangladesh"
+  },
+  "CKG": {
+    "message": "Chongqing, China"
+  },
   "CMB": {
     "message": "Colombo, Sri Lanka"
+  },
+  "DAC": {
+    "message": "Dhaka, Bangladesh"
   },
   "SZX": {
     "message": "Dongguan, China"
@@ -235,11 +280,20 @@
   "TNA": {
     "message": "Jinan, China"
   },
+  "JHB": {
+    "message": "Johor Bahru, Malaysia"
+  },
+  "CGK": {
+    "message": "Jakarta, Indonesia"
+  },
   "KHI": {
     "message": "Karachi, Pakistan"
   },
   "KTM": {
     "message": "Kathmandu, Nepal"
+  },
+  "CCU": {
+    "message": "Kolkata, India"
   },
   "KUL": {
     "message": "Kuala Lumpur, Malaysia"
@@ -247,11 +301,17 @@
   "NAY": {
     "message": "Langfang, China"
   },
+  "LHE": {
+    "message": "Lahore, Pakistan"
+  },
   "LYA": {
     "message": "Luoyang, China"
   },
   "MFM": {
     "message": "Macau, Macau"
+  },
+  "MLE": {
+    "message": "Malé, Maldives"
   },
   "MNL": {
     "message": "Manila, Philippines"
@@ -259,11 +319,20 @@
   "BOM": {
     "message": "Mumbai, India"
   },
+  "NAG": {
+    "message": "Nagpur, India"
+  },
   "NNG": {
     "message": "Nanning, China"
   },
   "DEL": {
     "message": "New Delhi, India"
+  },
+  "NBG": {
+    "message": "Ningbo, China"
+  },
+  "NOU": {
+    "message": "Noumea, New caledonia"
   },
   "KIX": {
     "message": "Osaka, Japan"
@@ -295,6 +364,9 @@
   "TPE": {
     "message": "Taipei, Taiwan"
   },
+  "PBH": {
+    "message": "Thimphu, Bhutan"
+  },
   "TSN": {
     "message": "Tianjin, China"
   },
@@ -303,6 +375,9 @@
   },
   "ULN": {
     "message": "Ulaanbaatar, Mongolia"
+  },
+  "VTE": {
+    "message": "Vientiane, Laos"
   },
   "WUH": {
     "message": "Wuhan, China"
@@ -322,8 +397,17 @@
   "CSX": {
     "message": "Zuzhou, China"
   },
+  "ARI": {
+    "message": "Arica, Chile"
+  },
+  "ASU": {
+    "message": "Asunción, Paraguay"
+  },
   "BGW": {
     "message": "Baghdad, Iraq"
+  },
+  "GYD": {
+    "message": "Baku, Azerbaijan"
   },
   "BEY": {
     "message": "Beirut, Lebanon"
@@ -343,6 +427,9 @@
   "MCT": {
     "message": "Muscat, Oman"
   },
+  "ZDM": {
+    "message": "Ramallah"
+  },
   "RUH": {
     "message": "Riyadh, Saudi Arabia"
   },
@@ -355,6 +442,12 @@
   "EZE": {
     "message": "Buenos Aires, Argentina"
   },
+  "CWB": {
+    "message": "Curitiba, Brazil"
+  },
+  "FOR": {
+    "message": "Fortaleza, Brazil"
+  },
   "LIM": {
     "message": "Lima, Peru"
   },
@@ -366,6 +459,12 @@
   },
   "PTY": {
     "message": "Panama City, Panama"
+  },
+  "PBM": {
+    "message": "Paramaribo, Suriname"
+  },
+  "POA": {
+    "message": "Porto Alegre, Brazil"
   },
   "UIO": {
     "message": "Quito, Ecuador"
@@ -382,146 +481,176 @@
   "CUR": {
     "message": "Willemstad, Curaçao"
   },
+  "GND": {
+    "message": "St. George's, Grenada"
+  },
+  "TGU": {
+    "message": "Tegucigalpa, Honduras"
+  },
+  "AMM": {
+    "message": "Amman, Jordan"
+  },
   "IAD": {
-    "message": "Ashburn, United States"
+    "message": "Ashburn, VA, United States"
   },
   "ATL": {
-    "message": "Atlanta, United States"
+    "message": "Atlanta, GA, United States"
   },
   "BOS": {
-    "message": "Boston, United States"
+    "message": "Boston, MA, United States"
+  },
+  "BUF": {
+    "message": "Buffalo, NY, United States"
   },
   "YYC": {
-    "message": "Calgary, Canada"
+    "message": "Calgary, AB, Canada"
   },
   "CLT": {
-    "message": "Charlotte, United States"
+    "message": "Charlotte, NC, United States"
   },
   "ORD": {
-    "message": "Chicago, United States"
+    "message": "Chicago, IL, United States"
   },
   "CMH": {
-    "message": "Columbus, United States"
+    "message": "Columbus, OH, United States"
   },
   "DFW": {
-    "message": "Dallas, United States"
+    "message": "Dallas, TX, United States"
   },
   "DEN": {
-    "message": "Denver, United States"
+    "message": "Denver, CO, United States"
   },
   "DTW": {
-    "message": "Detroit, United States"
+    "message": "Detroit, MI, United States"
+  },
+  "HNL": {
+    "message": "Honolulu, HI, United States"
+  },
+  "GUA": {
+    "message": "Guatemala City, Guatemala"
   },
   "IAH": {
-    "message": "Houston, United States"
+    "message": "Houston, TX, United States"
   },
   "IND": {
-    "message": "Indianapolis, United States"
+    "message": "Indianapolis, IN, United States"
   },
   "JAX": {
-    "message": "Jacksonville, United States"
+    "message": "Jacksonville, FL, United States"
   },
   "MCI": {
-    "message": "Kansas City, United States"
+    "message": "Kansas City, MO, United States"
   },
   "LAS": {
-    "message": "Las Vegas, United States"
+    "message": "Las Vegas, NV, United States"
   },
   "LAX": {
-    "message": "Los Angeles, United States"
+    "message": "Los Angeles, CA, United States"
   },
   "MFE": {
-    "message": "McAllen, United States"
+    "message": "McAllen, TX, United States"
   },
   "MEM": {
-    "message": "Memphis, United States"
+    "message": "Memphis, TN, United States"
   },
   "MIA": {
-    "message": "Miami, United States"
+    "message": "Miami, FL, United States"
   },
   "MSP": {
-    "message": "Minneapolis, United States"
+    "message": "Minneapolis, MN, United States"
   },
   "MGM": {
-    "message": "Montgomery, United States"
+    "message": "Montgomery, AL, United States"
   },
   "YUL": {
-    "message": "Montréal, Canada"
+    "message": "Montréal, QC, Canada"
   },
   "BNA": {
-    "message": "Nashville, United States"
+    "message": "Nashville, TN, United States"
   },
   "EWR": {
-    "message": "Newark, United States"
+    "message": "Newark, NJ, United States"
   },
   "ORF": {
-    "message": "Norfolk, United States"
+    "message": "Norfolk, VA, United States"
   },
   "OMA": {
-    "message": "Omaha, United States"
+    "message": "Omaha, NE, United States"
+  },
+  "PHL": {
+    "message": "Philadelphia, PA, United States"
   },
   "PHX": {
-    "message": "Phoenix, United States"
+    "message": "Phoenix, AZ, United States"
   },
   "PIT": {
-    "message": "Pittsburgh, United States"
+    "message": "Pittsburgh, PA, United States"
+  },
+  "PAP": {
+    "message": "Port-Au-Prince, Haiti"
   },
   "PDX": {
-    "message": "Portland, United States"
+    "message": "Portland, OR, United States"
+  },
+  "QRO": {
+    "message": "Queretaro, MX, Mexico"
   },
   "RIC": {
     "message": "Richmond, Virginia"
   },
   "SMF": {
-    "message": "Sacramento, United States"
+    "message": "Sacramento, CA, United States"
   },
   "SLC": {
-    "message": "Salt Lake City, United States"
+    "message": "Salt Lake City, UT, United States"
   },
   "SAN": {
-    "message": "San Diego, United States"
+    "message": "San Diego, CA, United States"
   },
   "SJC": {
-    "message": "San Jose, United States"
+    "message": "San Jose, CA, United States"
   },
   "YXE": {
-    "message": "Saskatoon, Canada"
+    "message": "Saskatoon, SK, Canada"
   },
   "SEA": {
-    "message": "Seattle, United States"
+    "message": "Seattle, WA, United States"
   },
   "STL": {
-    "message": "St. Louis, United States"
+    "message": "St. Louis, MO, United States"
   },
   "TPA": {
-    "message": "Tampa, United States"
+    "message": "Tampa, FL, United States"
   },
   "YYZ": {
-    "message": "Toronto, Canada"
+    "message": "Toronto, ON, Canada"
   },
   "YVR": {
-    "message": "Vancouver, Canada"
+    "message": "Vancouver, BC, Canada"
   },
   "TLH": {
-    "message": "Tallahassee, United States"
+    "message": "Tallahassee, FL, United States"
   },
   "YWG": {
-    "message": "Winnipeg, Canada"
+    "message": "Winnipeg, MB, Canada"
+  },
+  "ADL": {
+    "message": "Adelaide, SA, Australia"
   },
   "AKL": {
     "message": "Auckland, New Zealand"
   },
   "BNE": {
-    "message": "Brisbane, Australia"
+    "message": "Brisbane, QLD, Australia"
   },
   "MEL": {
-    "message": "Melbourne, Australia"
+    "message": "Melbourne, VIC, Australia"
   },
   "PER": {
-    "message": "Perth, Australia"
+    "message": "Perth, WA, Australia"
   },
   "SYD": {
-    "message": "Sydney, Australia"
+    "message": "Sydney, NSW, Australia"
   }
 
 }

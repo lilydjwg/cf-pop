@@ -32,7 +32,7 @@
     "message": "希腊雅典"
   },
   "BCN": {
-    "message": "西班牙巴塞罗纳"
+    "message": "西班牙巴塞罗那"
   },
   "BEG": {
     "message": "塞尔维亚贝尔格莱德"
@@ -55,6 +55,9 @@
   "CPH": {
     "message": "丹麦哥本哈根"
   },
+  "ORK": {
+    "message": "爱尔兰科克"
+  },
   "DUB": {
     "message": "爱尔兰都柏林"
   },
@@ -66,6 +69,12 @@
   },
   "FRA": {
     "message": "德国法兰克福"
+  },
+  "GVA": {
+    "message": "瑞士日内瓦"
+  },
+  "GOT": {
+    "message": "瑞典哥德堡"
   },
   "HAM": {
     "message": "德国汉堡"
@@ -106,6 +115,9 @@
   "MUC": {
     "message": "德国慕尼黑"
   },
+  "LCA": {
+    "message": "塞浦路斯尼科西亚"
+  },
   "OSL": {
     "message": "挪威奥斯陆"
   },
@@ -116,7 +128,7 @@
     "message": "捷克布拉格"
   },
   "KEF": {
-    "message": "冰岛雷克雅维克"
+    "message": "冰岛雷克雅未克"
   },
   "RIX": {
     "message": "拉脱维亚里加"
@@ -125,16 +137,19 @@
     "message": "意大利罗马"
   },
   "LED": {
-    "message": "俄罗斯圣彼德堡"
+    "message": "俄罗斯圣彼得堡"
   },
   "SOF": {
-    "message": "保加利亚索非亚"
+    "message": "保加利亚索菲亚"
   },
   "ARN": {
     "message": "瑞典斯德哥尔摩"
   },
   "TLL": {
     "message": "爱沙尼亚塔林"
+  },
+  "SKG": {
+    "message": "希腊塞萨洛尼基"
   },
   "VIE": {
     "message": "奥地利维也纳"
@@ -151,14 +166,20 @@
   "ZRH": {
     "message": "瑞士苏黎世"
   },
-  "CAI": {
-    "message": "埃及开罗"
+  "TNR": {
+    "message": "马达加斯加塔那那利佛"
   },
   "CMN": {
     "message": "摩洛哥卡萨布兰卡"
   },
   "CPT": {
     "message": "南非开普敦"
+  },
+  "DKR": {
+    "message": "塞内加尔达喀尔"
+  },
+  "DAR": {
+    "message": "坦桑尼亚达累斯萨拉姆"
   },
   "JIB": {
     "message": "吉布提吉布提市"
@@ -167,7 +188,7 @@
     "message": "南非德班"
   },
   "JNB": {
-    "message": "南非约翰尼斯堡"
+    "message": "南非约翰内斯堡"
   },
   "LOS": {
     "message": "尼日利亚拉各斯"
@@ -175,8 +196,14 @@
   "LAD": {
     "message": "安哥拉罗安达"
   },
+  "MPM": {
+    "message": "莫桑比克马普托"
+  },
   "MBA": {
     "message": "肯尼亚蒙巴萨"
+  },
+  "ROB": {
+    "message": "利比里亚蒙罗维亚"
   },
   "MRU": {
     "message": "毛里求斯路易港"
@@ -184,8 +211,17 @@
   "RUN": {
     "message": "法国留尼旺"
   },
+  "BLR": {
+    "message": "印度班加罗尔"
+  },
+  "KGL": {
+    "message": "卢旺达基加利"
+  },
   "BKK": {
     "message": "泰国曼谷"
+  },
+  "BWN": {
+    "message": "文莱斯里巴加湾"
   },
   "CEB": {
     "message": "菲律宾宿务"
@@ -196,8 +232,17 @@
   "MAA": {
     "message": "印度金奈"
   },
+  "CGP": {
+    "message": "孟加拉国吉大港"
+  },
+  "CKG": {
+    "message": "中国重庆"
+  },
   "CMB": {
     "message": "斯里兰卡科伦坡"
+  },
+  "DAC": {
+    "message": "孟加拉国"
   },
   "SZX": {
     "message": "中国东莞"
@@ -235,11 +280,20 @@
   "TNA": {
     "message": "中国济南"
   },
+  "JHB": {
+    "message": "马来西亚新山"
+  },
+  "CGK": {
+    "message": "印度尼西亚雅加达"
+  },
   "KHI": {
     "message": "巴基斯坦卡拉奇"
   },
   "KTM": {
     "message": "尼泊尔加德满都"
+  },
+  "CCU": {
+    "message": "印度加尔各答"
   },
   "KUL": {
     "message": "马来西亚吉隆坡"
@@ -247,11 +301,17 @@
   "NAY": {
     "message": "中国廊坊"
   },
+  "LHE": {
+    "message": "巴基斯坦拉合尔"
+  },
   "LYA": {
     "message": "中国沈阳"
   },
   "MFM": {
     "message": "澳门"
+  },
+  "MLE": {
+    "message": "马尔代夫马累"
   },
   "MNL": {
     "message": "菲律宾马尼拉"
@@ -259,11 +319,20 @@
   "BOM": {
     "message": "印度孟买"
   },
+  "NAG": {
+    "message": "印度那格浦尔"
+  },
   "NNG": {
     "message": "中国南宁"
   },
   "DEL": {
     "message": "印度新德里"
+  },
+  "NBG": {
+    "message": "中国宁波"
+  },
+  "NOU": {
+    "message": "新喀里多尼亚努美阿"
   },
   "KIX": {
     "message": "日本大阪"
@@ -272,7 +341,7 @@
     "message": "柬埔寨金边"
   },
   "TAO": {
-    "message": "中国青鸟"
+    "message": "中国青岛"
   },
   "ICN": {
     "message": "韩国首尔"
@@ -295,6 +364,9 @@
   "TPE": {
     "message": "台湾台北"
   },
+  "PBH": {
+    "message": "不丹廷布"
+  },
   "TSN": {
     "message": "中国天津"
   },
@@ -303,6 +375,9 @@
   },
   "ULN": {
     "message": "蒙古乌兰巴托"
+  },
+  "VTE": {
+    "message": "老挝万象"
   },
   "WUH": {
     "message": "中国武汉"
@@ -314,7 +389,7 @@
     "message": "中国西安"
   },
   "EVN": {
-    "message": "亚美尼亚耶烈万"
+    "message": "亚美尼亚埃里文"
   },
   "CGO": {
     "message": "中国郑州"
@@ -322,8 +397,17 @@
   "CSX": {
     "message": "中国株洲"
   },
+  "ARI": {
+    "message": "智利阿里卡"
+  },
+  "ASU": {
+    "message": "巴拉圭亚松森"
+  },
   "BGW": {
     "message": "伊拉克巴格达"
+  },
+  "GYD": {
+    "message": "阿塞拜疆巴库"
   },
   "BEY": {
     "message": "黎巴嫩贝鲁特"
@@ -343,6 +427,9 @@
   "MCT": {
     "message": "阿曼马斯喀特"
   },
+  "ZDM": {
+    "message": "拉姆安拉"
+  },
   "RUH": {
     "message": "沙特阿拉伯利雅得"
   },
@@ -355,6 +442,12 @@
   "EZE": {
     "message": "阿根廷布宜诺斯艾利斯"
   },
+  "CWB": {
+    "message": "巴西库里奇巴"
+  },
+  "FOR": {
+    "message": "巴西福塔莱萨"
+  },
   "LIM": {
     "message": "秘鲁利马"
   },
@@ -366,6 +459,12 @@
   },
   "PTY": {
     "message": "巴拿马巴拿马城"
+  },
+  "PBM": {
+    "message": "苏里南帕拉马里博"
+  },
+  "POA": {
+    "message": "巴西阿雷格里港"
   },
   "UIO": {
     "message": "厄瓜多尔基多"
@@ -380,148 +479,178 @@
     "message": "智利瓦尔帕莱索"
   },
   "CUR": {
-    "message": "库拉索岛威廉斯塔德"
+    "message": "库拉索威廉斯塔德"
+  },
+  "GND": {
+    "message": "格林纳达圣乔治"
+  },
+  "TGU": {
+    "message": "洪都拉斯特古西加尔巴"
+  },
+  "AMM": {
+    "message": "约旦安曼"
   },
   "IAD": {
-    "message": "美国阿什本"
+    "message": "美国弗吉尼亚州阿什本"
   },
   "ATL": {
-    "message": "美国亚特兰大"
+    "message": "美国佐治亚州亚特兰大"
   },
   "BOS": {
-    "message": "美国波士顿"
+    "message": "美国马萨诸塞州波士顿"
+  },
+  "BUF": {
+    "message": "美国纽约州布法罗"
   },
   "YYC": {
-    "message": "加拿大卡尔加里"
+    "message": "加拿大阿尔伯塔省卡尔加里"
   },
   "CLT": {
-    "message": "美国夏洛特"
+    "message": "美国北卡罗来纳州夏洛特"
   },
   "ORD": {
-    "message": "美国 Chicago"
+    "message": "美国伊利诺伊州芝加哥"
   },
   "CMH": {
-    "message": "美国 Columbus"
+    "message": "美国俄亥俄州哥伦布"
   },
   "DFW": {
-    "message": "美国达拉斯"
+    "message": "美国得克萨斯州达拉斯"
   },
   "DEN": {
-    "message": "美国丹佛"
+    "message": "美国科罗拉多州丹佛"
   },
   "DTW": {
-    "message": "美国底特律"
+    "message": "美国密歇根州底特律"
+  },
+  "HNL": {
+    "message": "美国夏威夷州檀香山"
+  },
+  "GUA": {
+    "message": "危地马拉危地马拉城"
   },
   "IAH": {
-    "message": "美国休斯顿"
+    "message": "美国得克萨斯州休斯顿"
   },
   "IND": {
-    "message": "美国印第安纳波利斯"
+    "message": "美国印第安纳州印第安纳波利斯"
   },
   "JAX": {
-    "message": "美国杰克逊维尔"
+    "message": "美国佛罗里达州杰克逊维尔"
   },
   "MCI": {
-    "message": "美国堪萨斯城"
+    "message": "美国密苏里州堪萨斯城"
   },
   "LAS": {
-    "message": "美国拉斯维加斯"
+    "message": "美国内华达州拉斯维加斯"
   },
   "LAX": {
-    "message": "美国洛杉矶"
+    "message": "美国加利福尼亚州洛杉矶"
   },
   "MFE": {
-    "message": "美国麦卡伦"
+    "message": "美国得克萨斯州麦卡伦"
   },
   "MEM": {
-    "message": "美国孟菲斯"
+    "message": "美国田纳西州孟菲斯"
   },
   "MIA": {
-    "message": "美国迈阿密"
+    "message": "美国佛罗里达州迈阿密"
   },
   "MSP": {
-    "message": "美国明尼阿波里斯"
+    "message": "美国明尼苏达州明尼阿波利斯"
   },
   "MGM": {
-    "message": "美国蒙哥马利"
+    "message": "美国亚拉巴马州蒙哥马利"
   },
   "YUL": {
-    "message": "加拿大蒙特利尔"
+    "message": "加拿大魁北克省蒙特利尔"
   },
   "BNA": {
-    "message": "美国那什维尔"
+    "message": "美国田纳西州纳什维尔"
   },
   "EWR": {
-    "message": "美国纽瓦克"
+    "message": "美国新泽西州纽瓦克"
   },
   "ORF": {
-    "message": "美国诺福克"
+    "message": "美国弗吉尼亚州诺福克"
   },
   "OMA": {
-    "message": "美国奥马哈"
+    "message": "美国内布拉斯加州奥马哈"
+  },
+  "PHL": {
+    "message": "美国宾夕法尼亚州费城"
   },
   "PHX": {
-    "message": "美国凤凰城"
+    "message": "美国亚利桑那州凤凰城"
   },
   "PIT": {
-    "message": "美国匹兹堡"
+    "message": "美国宾夕法尼亚州匹兹堡"
+  },
+  "PAP": {
+    "message": "海地太子港"
   },
   "PDX": {
-    "message": "美国波特兰"
+    "message": "美国俄勒冈州波特兰"
+  },
+  "QRO": {
+    "message": "墨西哥克雷塔罗"
   },
   "RIC": {
-    "message": "弗吉尼亚里士满"
+    "message": "弗吉尼亚州里士满"
   },
   "SMF": {
-    "message": "美国萨克拉门托"
+    "message": "美国加利福尼亚州萨克拉门托"
   },
   "SLC": {
-    "message": "美国盐湖城"
+    "message": "美国犹他州盐湖城"
   },
   "SAN": {
-    "message": "美国圣地亚哥"
+    "message": "美国加利福尼亚州圣地亚哥"
   },
   "SJC": {
-    "message": "美国圣何塞"
+    "message": "美国加利福尼亚州圣何塞"
   },
   "YXE": {
-    "message": "加拿大萨斯卡通"
+    "message": "加拿大萨斯喀彻温省萨斯卡通"
   },
   "SEA": {
-    "message": "美国西雅图"
+    "message": "美国华盛顿州西雅图"
   },
   "STL": {
-    "message": "美国圣路易斯"
+    "message": "美国密苏里州圣路易斯"
   },
   "TPA": {
-    "message": "美国坦帕"
+    "message": "美国佛罗里达州坦帕"
   },
   "YYZ": {
-    "message": "加拿大多伦多"
+    "message": "加拿大安大略省多伦多"
   },
   "YVR": {
-    "message": "加拿大温哥华"
+    "message": "加拿大不列颠哥伦比亚省温哥华"
   },
   "TLH": {
-    "message": "美国塔拉哈西"
+    "message": "美国佛罗里达州塔拉哈西"
   },
   "YWG": {
-    "message": "加拿大温尼伯"
+    "message": "加拿大马尼托巴省温尼伯"
+  },
+  "ADL": {
+    "message": "澳大利亚南澳大利亚州阿德莱德"
   },
   "AKL": {
     "message": "新西兰奥克兰"
   },
   "BNE": {
-    "message": "澳大利亚布里斯班"
+    "message": "澳大利亚昆士兰州布里斯班"
   },
   "MEL": {
-    "message": "澳大利亚墨尔本"
+    "message": "澳大利亚维多利亚州墨尔本"
   },
   "PER": {
-    "message": "澳大利亚珀斯"
+    "message": "澳大利亚西澳大利亚州珀斯"
   },
   "SYD": {
-    "message": "澳大利亚悉尼"
+    "message": "澳大利亚新南威尔士州悉尼"
   }
 
 }
