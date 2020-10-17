@@ -3,7 +3,7 @@
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
   "default_locale": "en",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": "lilydjwg",
   "applications": {
     "gecko": {
@@ -22,10 +22,7 @@
     "<all_urls>"
   ],
   "browser_action": {
-    "default_icon": {
-      "48": "icons/Cloudflare-gray.svg",
-      "96": "icons/Cloudflare-gray.svg"
-    },
+    "default_icon": "icons/Cloudflare-gray.svg",
     "default_title": "__MSG_unknown__"
   },
   "icons": {
